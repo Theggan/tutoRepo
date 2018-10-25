@@ -1,7 +1,0 @@
-attention Mec
-dzddzdz
-dzs
-<?php
-
-echo "wesh";
-?>
